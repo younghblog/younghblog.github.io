@@ -59,7 +59,7 @@ sns:
   # weibo: '//weibo.com/lovecolcol'
   # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   # instagram: '//www.instagram.com/steveliaocn'
-  CSDN: '//blog.csdn.net/qq_40452906'
+  csdn: '//blog.csdn.net/qq_40452906'
   github: '//github.com/younghblog'
 
 # Tags 设置标签
